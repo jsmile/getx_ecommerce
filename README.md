@@ -1,6 +1,6 @@
 # getx_ecommerce
 
-A new Flutter project.
+ecommerce flutter app by GetX 4.6.5.
 
 ## Getting Started
 
